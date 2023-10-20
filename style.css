@@ -1,0 +1,26 @@
+body {
+    background: #FFDBF5;
+}
+
+.btn {
+
+    margin: 300px 0px 0px 40px;
+    width: 400px;
+    height: 100px;
+    border-radius: 800px;
+    background: #FF0051;
+
+
+}
+
+.btn a {
+    text-decoration: none;
+    font-size: 30px;
+    color: black;
+}
+
+@media (max-width: 568px) {
+    body {
+        font-size: 200px;
+    }
+}

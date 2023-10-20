@@ -1,0 +1,12 @@
+body {
+    background-image: url(./Hai1.png);
+    display: block;
+}
+
+
+.anh {
+    position: absolute;
+    margin: 300px 0px 0px 50px;
+    font-size: 30px;
+    text-align: center;
+}
